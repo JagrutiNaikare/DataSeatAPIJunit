@@ -3,10 +3,10 @@
 **Test Automation Practice API**
 
 **This Framework is built with :**
-Java 11
-Junit 5
-Maven
-Allure Report
+Java 11,
+Junit 5,
+Maven,
+Allure Report,
 Eclipse
 
 **Clone this repo :**
